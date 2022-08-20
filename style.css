@@ -1,0 +1,167 @@
+div{
+    transition: background-color 0.25s;
+}
+.heading{
+    
+    background-color: crimson;
+    width: 1016px;
+    height: 400px;
+}
+.heading-button{
+    background-color:rgb(241, 25, 111) ;
+    color: white;
+    border: none;
+    padding: 100px;
+    margin-left: 220px;
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    border-radius: 140px;
+    font-family: times new roman;
+    box-shadow: 1px 50px 100px rgba(222, 187, 11, 0.55) ;
+}
+.heading-button:hover{
+    background-color: yellow;
+    color: crimson;
+    font-size: 55px;
+    padding:95px ;
+}
+.heading-button:active{
+    background-color: crimson;
+    color: yellow;
+}
+.div1{
+        display: inline-block;
+    background-color: crimson;
+    width: 490px;
+    height: 490px;
+    margin-top: 200px;
+    margin-left: 250px;
+    border-radius: 245px;
+}
+.div1:hover{
+    background-color: violet;
+}
+.div2{
+    display: inline-block;
+    background-color: orangered;
+    width: 420px;
+    height: 420px;
+    margin-top: 35px;
+    margin-left: 35px;
+    vertical-align: top;
+    border-radius: 210px;
+}
+.div2:hover{
+    background-color: indigo;
+}
+.div3{
+    display: inline-block;
+    background-color: yellow;
+    width: 350px;
+    height: 350px;
+    margin-top: 35px;
+    margin-left: 35px;
+    vertical-align: top;
+    border-radius: 175px;
+}
+.div3:hover{
+    background-color: blue;
+}
+.div4{
+    display: inline-block;
+    background-color: green;
+    width: 280px;
+    height: 280px;
+    margin-top: 35px;
+    margin-left: 35px;
+    vertical-align: top;
+    border-radius: 140px;
+}
+.div4:hover{
+    background-color: green;
+}
+.div5{
+    display: inline-block;
+    background-color: blue;
+    width: 210px;
+    height: 210px;
+    margin-top: 35px;
+    margin-left: 35px;
+    vertical-align: top;
+    border-radius: 105px;
+}
+.div5:hover{
+    background-color: yellow;
+}
+.div6{
+    display: inline-block;
+    background-color: indigo;
+    width: 140px;
+    height: 140px;
+    margin-top: 35px;
+    margin-left: 35px;
+    vertical-align: top;
+    border-radius: 70px;
+}
+.div6:hover{
+    background-color: orange;
+}
+
+.div7{
+    display: inline-block;
+    background-color: violet;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    margin-left:35px;
+    margin-top: 35px;
+    margin-right: 25px;
+}
+.div7:hover{
+    background-color:crimson;
+}
+.chess{
+    display: inline-block;
+    background-color: black;
+    width: 1020px;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 0px;
+}
+.chess-element1{
+    display: inline-block;
+    background-color: white;
+    width: 250px;
+    height: 300px;
+}
+.chess-element1:hover{
+    background-color: black;
+}
+.chess-element2{
+    display: inline-block;
+    background-color: black;
+    width: 250px;
+    height: 300px;
+}
+.chess-element2:hover{
+    background-color: white;
+}
+.chess-element3{
+    display: inline-block;
+    background-color: white;
+    width: 250px;
+    height: 300px;
+}
+.chess-element3:hover{
+    background-color: black;
+}
+.chess-element4{
+    display: inline-block;
+    background-color: black;
+    width: 250px;
+    height: 300px;
+}
+.chess-element4:hover{
+    background-color: white;
+}
